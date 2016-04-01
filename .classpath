@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="connection/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry kind="lib" path="connection/sun-jai_codec.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="connection/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="E:/pdf/java tuto/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
